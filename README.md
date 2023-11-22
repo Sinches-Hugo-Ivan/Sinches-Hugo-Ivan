@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/84039185/227626553-a1eac4b4-904b-48cf-ba5e-e06d76d3df49.png" width="400" />
     <h1 align="center">Hola 👋, soy Hugo Iván Sinches</h1>
-    <h3 align="center">Soy Developer de Argentina , creador de contenido Realidad Aumentada ,filtros para Tik Tok Facebook y formador de Robotica Educativa, actualmente me estoy especializando en el desarrollo de video juegos  y simuladores virtuales .</h3>
+    <h3 align="center">Soy Developer de Argentina , creador de contenido Realidad Aumentada ,filtros para Tik Tok Facebook y formador de Robotica Educativa .</h3>
 </div>
 
 
@@ -32,11 +32,11 @@
 
 - 📝 Regularmente subo filtros en [TIK TOK](https://www.tiktok.com/@sinches.hugo.ivan) y a Facebook
 
-- 💬 Preguntame sobre **Meta Spark,Realidad Aumentada,Robotica Educativa,Video Juegos,Low-Code,No-Code**
+- 💬 Preguntame sobre **Meta Spark,Realidad Aumentada,Robotica Educativa,Low-Code,No-Code**
 
 - 📫 Contactame a mi e-mail **hugo.ivan.sinches@gmail.com**
 
 - 📱 Escribime a mi [Whatsapp](https://walink.co/82398d)
 
-- 🌱 Actualmente estoy estudiando **Desarrollo de Video Juegos y Simuladores Virtuales**
+- 🌱 Actualmente estoy estudiando **REACT JS**
 
